@@ -1,0 +1,35 @@
+#modal-window {
+  display: none;
+  left: 0;
+  top: 0;
+  width: 1005px;
+  height: 100%;
+  background-color: beige;
+  position: fixed;
+  z-index: 999;
+  overflow: auto;
+}
+.modal-window_info {
+  margin: 15% auto;
+  background-color: cadetblue;
+  width: 15%;
+  height: 10%;
+}
+li {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin: 5px;
+}
+.red {
+  background-color: red;
+}
+.yellow {
+  background-color: yellow;
+}
+.green {
+  background-color: green;
+}
+.disable {
+  background-color: #c9c4c4;
+}
