@@ -1,0 +1,14 @@
+div {
+  background-color: #e7d4cb;
+  width: 48vw;
+}
+ul {
+  list-style-type: decimal;
+  padding: 10px 10px 10px 25px;
+}
+.selected {
+  background: #e78a67;
+}
+li {
+  cursor: pointer;
+}
